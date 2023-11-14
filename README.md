@@ -31,4 +31,5 @@ ir a `localhost:8000/docs` en el navegador
 ### Ejecutar las pruebas
 
 `cd testingClass`
+
 `pytest test_app.py`
